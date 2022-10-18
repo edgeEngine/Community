@@ -2,7 +2,7 @@ mimik Community is built to support all mimik users on their educational journey
 
 
 ## Quick Start
-[Get Started with Discussions & GeneralProduct Feedbacks](https://github.com/edgeEngine/Community/discussions)
+[Get Started with Discussions & General Product Feedbacks](https://github.com/edgeEngine/Community/discussions)
 
 [Sign up to Developer Console](https://developer.mimik.com)
 
