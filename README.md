@@ -8,4 +8,12 @@ mimik Community is built to support all mimik users on their educational journey
 
 [Get Started with mimik](https://developer.mimik.com/get-started-with-edgeengine)
 
+## Documentation 
+
 [Explore mimik's Developer Documentation](https://devdocs.mimik.com) 
+
+## Let's edgifi Blog 
+
+[Contribute to Let's edgifi Blog](https://mimik.com/lets-edgifi-blog)
+
+
