@@ -18,12 +18,11 @@ mimik Community is built to support all mimik users on their educational journey
 
 [Explore mimik's Developer Documentation](https://devdocs.mimik.com) 
 
+Download the "Hybrid Edge Cloud: A pragmatic approach for decentralized cloud computing" [HERE](https://mimik.com/hybrid-edge-cloud-a-pragmatic-approach-for-decentralized-cloud-computing/)
+
 [Gain hand-on understanding of hybrid edge-Cloud technology](https://developer.mimik.com/complementary-courses/)
 
 
-## Documentation 
-
-[Explore mimik's Developer Documentation](https://devdocs.mimik.com) 
 
 ## Let's edgifi Blog 
 
