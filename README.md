@@ -26,7 +26,7 @@ Download the "Hybrid Edge Cloud: A pragmatic approach for decentralized cloud co
 
 ## Let's edgifi Blog 
 
-[Contribute to Let's edgifi Blog](https://mimik.com/lets-edgifi-blog)
+[Explore & Contribute to Let's edgifi Blog](https://mimik.com/lets-edgifi-blog)
 
 
 ## Resources 
