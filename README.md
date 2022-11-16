@@ -14,6 +14,13 @@ mimik Community is built to support all mimik users on their educational journey
 [Get Started with Discussions & General Product Feedbacks](https://github.com/edgeEngine/Community/discussions)
 
 
+## Learn 
+
+[Explore mimik's Developer Documentation](https://devdocs.mimik.com) 
+
+[Gain hand-on understanding of hybrid edge-Cloud technology](https://developer.mimik.com/complementary-courses/)
+
+
 ## Documentation 
 
 [Explore mimik's Developer Documentation](https://devdocs.mimik.com) 
@@ -23,3 +30,6 @@ mimik Community is built to support all mimik users on their educational journey
 [Contribute to Let's edgifi Blog](https://mimik.com/lets-edgifi-blog)
 
 
+## Resources 
+
+[Developer Portal](https://developer.mimik.com)
