@@ -34,6 +34,9 @@ Download the "Hybrid Edge Cloud: A pragmatic approach for decentralized cloud co
 
 [Developer Portal](https://developer.mimik.com)
 
+
+[Developer Documentation](https://devdocs.mimik.com)
+
 ## Popular Repos 
 
 
